@@ -1,4 +1,4 @@
-package org.firstspringproject.v2;
+package org.firstspringproject.xmlConfiguration.v2;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

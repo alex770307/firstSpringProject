@@ -1,4 +1,4 @@
-package org.firstspringproject.v1;
+package org.firstspringproject.xmlConfiguration.v1;
 
 public class HelloWorld {
     private String message;

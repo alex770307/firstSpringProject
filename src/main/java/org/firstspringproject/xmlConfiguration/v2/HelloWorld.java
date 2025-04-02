@@ -1,4 +1,4 @@
-package org.firstspringproject.v2;
+package org.firstspringproject.xmlConfiguration.v2;
 
 public class HelloWorld {
     public void methodInit(){
